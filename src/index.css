@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "EB Garamond", serif;
+  --font-sans: "Manrope", sans-serif;
+  --font-display: "EB Garamond", serif;
+
+  --color-wood: #4CAF50;
+  --color-fire: #FF5722;
+  --color-earth: #FFC107;
+  --color-metal: #9E9E9E;
+  --color-water: #2196F3;
+
+  --color-goldAccent: #D4AF37;
+  --color-darkCard: #121212;
+  --color-darkBorder: rgba(255, 255, 255, 0.1);
+  --color-darkTextSecondary: rgba(255, 255, 255, 0.61);
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Bio-Myeongri",
+  "description": "생년월일시 상수 데이터를 정교히 분석하여 오행 기운, 장부 에너지 불균형 진단, 맞춤형 뷰티 성분 및 라이프스타일 요법을 조화시켜 주는 AI 웰니스 어드바이저 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
